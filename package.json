@@ -1,0 +1,8 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:AlexShan2008/notes.git",
+  "author": "shantong <shantong@reyun.com>",
+  "license": "MIT"
+}
