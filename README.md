@@ -4,6 +4,8 @@
 
 ### 目录
 
+- [2020.04.25][「译文」：什么是PWA，我们为什么要重视？](https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad)
+
 - [2020.04.18][ 产品分析（用户行为）最佳实践之--PostHog ](https://juejin.im/post/5e9b9dc551882573a25f34f8)
 
 - [2019.06.30][ 分析大厂招聘数据：看如何快速成为前端架构师？ ](https://juejin.im/post/5d14a05ef265da1bce3de2f6)
