@@ -4,6 +4,8 @@
 
 ### 目录
 
+- [2020.05.08][「译文」如何设计Web应用程序：成为软件架构师？](https://juejin.im/post/5eb5792ef265da7b90054eac)
+
 - [2020.04.25][「译文」：什么是PWA，我们为什么要重视？](https://blog.bitsrc.io/what-is-a-pwa-and-why-should-you-care-388afb6c0bad)
 
 - [2020.04.18][ 产品分析（用户行为）最佳实践之--PostHog ](https://juejin.im/post/5e9b9dc551882573a25f34f8)
