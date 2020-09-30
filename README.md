@@ -4,6 +4,8 @@
 
 ### 目录
 
+- [2020.09.30][在 React 中用 Three.js 实现 Web VR 全景看房](https://juejin.im/post/6878224140340297736)
+
 - [2020.08.14][微前端架构入门及实践指南之「qiankun」](https://juejin.im/post/6860644545193836551)
 
 - [2020.07.31][「译文：」你必须掌握的 7 种 JavaScript 错误类型](https://juejin.im/post/6855456589282410509/)
